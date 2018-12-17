@@ -1,3 +1,1 @@
-val test = (s: String) => s"$s Hello"
-
-test("Adriani")
+//File for quick Code testing
